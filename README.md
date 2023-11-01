@@ -19,13 +19,13 @@ The Controller component is responsible for handling the user input and updating
 
 The server directory contains the backend code of the web application. The backend code is built using Node.js and Express.js. The server directory contains the following directories and files:
 
-*** ## config directory: This directory contains the configuration files of the backend application.
-*** ## controllers directory: This directory contains the controllers of the application.
-*** ## models directory: This directory contains the models of the application.
-*** ## routes directory: This directory contains the routes of the application.
-*** ## server.js file: This file is the entry point of the backend application.
+ ## *** config directory: This directory contains the configuration files of the backend application.
+ ## *** controllers directory: This directory contains the controllers of the application.
+ ## *** models directory: This directory contains the models of the application.
+ ## *** routes directory: This directory contains the routes of the application.
+ ## *** server.js file: This file is the entry point of the backend application.
 # Client Directory
-Client Directory Image
+
 The client directory contains the front-end code of the web application. The frontend code is built using React.js. The client directory contains the following directories and files:
 
 public directory: This directory contains the HTML file that is displayed in the browser.
@@ -33,7 +33,7 @@ src directory: This directory contains the source code of the frontend applicati
 components directory: This directory contains the React components of the application.
 App.js file: This file is the main file of the frontend application that renders the components.
 index.js file: This file is the entry point of the front-end application.
-Conclusion
+## Conclusion
 In conclusion, the MERN stack project structure is organized in a way that separates the backend and frontend code. It also follows the MVC architecture pattern. The client directory contains the frontend code, and the server directory contains the backend code. The MERN stack project structure helps in building scalable and robust web applications. By separating the concerns of the application, the codebase becomes more manageable and easier to maintain. If you're looking to build a web application using the MERN stack, it's highly recommended that you follow this project structure.
 
 1. MVC Pattern using React
