@@ -6,25 +6,25 @@ MERN stack is a popular web development technology stack that includes MongoDB, 
 MERN Stack Project Structure
 The MERN stack project structure is organized in a way that separates the backend and frontend code. It follows the MVC (Model-View-Controller) architecture pattern. This pattern allows developers to separate the concerns of the application into three main components.
 
-Model
+# Model
 The Model component is responsible for managing the data and the business logic of the application. In the MERN stack, MongoDB is used as the database, which stores the data used in the application. The model's directory contains the database schema and the functions that interact with the database.
 
-View
+# View
 The View component is responsible for displaying the data to the users. In the MERN stack, React.js is used as the frontend framework. The components directory contains the React components that are responsible for rendering the user interface.
 
-Controller
+# Controller
 The Controller component is responsible for handling the user input and updating the Model and View components accordingly. In the MERN stack, the backend code is built using Node.js and Express.js. The controller's directory contains the functions that handle the HTTP requests and responses.
 
-Server Directory
-Server Directory Image
+# Server Directory
+
 The server directory contains the backend code of the web application. The backend code is built using Node.js and Express.js. The server directory contains the following directories and files:
 
-config directory: This directory contains the configuration files of the backend application.
-controllers directory: This directory contains the controllers of the application.
-models directory: This directory contains the models of the application.
-routes directory: This directory contains the routes of the application.
-server.js file: This file is the entry point of the backend application.
-Client Directory
+*** ## config directory: This directory contains the configuration files of the backend application.
+*** ## controllers directory: This directory contains the controllers of the application.
+*** ## models directory: This directory contains the models of the application.
+*** ## routes directory: This directory contains the routes of the application.
+*** ## server.js file: This file is the entry point of the backend application.
+# Client Directory
 Client Directory Image
 The client directory contains the front-end code of the web application. The frontend code is built using React.js. The client directory contains the following directories and files:
 
