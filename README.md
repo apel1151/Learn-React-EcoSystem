@@ -16,6 +16,7 @@ The View component is responsible for displaying the data to the users. In the M
 The Controller component is responsible for handling the user input and updating the Model and View components accordingly. In the MERN stack, the backend code is built using Node.js and Express.js. The controller's directory contains the functions that handle the HTTP requests and responses.
 
 # Server Directory
+![Screenshot 2023-11-01 185200](https://github.com/apel1151/Learn-React-EcoSystem/assets/77063289/ce07a921-f139-4460-87aa-1ea202757c80)
 
 The server directory contains the backend code of the web application. The backend code is built using Node.js and Express.js. The server directory contains the following directories and files:
 
@@ -25,6 +26,7 @@ The server directory contains the backend code of the web application. The backe
  ## *** routes directory: This directory contains the routes of the application.
  ## *** server.js file: This file is the entry point of the backend application.
 # Client Directory
+![Screenshot 2023-11-01 185218](https://github.com/apel1151/Learn-React-EcoSystem/assets/77063289/938c9974-7bdc-4f6d-ba00-d18c9966c0f9)
 
 The client directory contains the front-end code of the web application. The frontend code is built using React.js. The client directory contains the following directories and files:
 
