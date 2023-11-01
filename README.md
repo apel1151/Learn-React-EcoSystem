@@ -1,16 +1,6 @@
 # [Architecture]
+# MERN Stack Project Structure: Best Practices
 
-
-MERN Stack Project Structure: Best Practices
-#
-javascript
-#
-webdev
-#
-programming
-#
-react
-Overview
 MERN stack is a popular web development technology stack that includes MongoDB, Express.js, React.js, and Node.js. It is a very powerful stack that allows developers to build scalable and robust web applications. In this tutorial, we'll discuss the MERN stack project structure and how it can help you build better web applications.
 
 MERN Stack Project Structure
