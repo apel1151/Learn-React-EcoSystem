@@ -46,53 +46,55 @@ In conclusion, the MERN stack project structure is organized in a way that separ
 # [React-Ecosystem]
 
 # Routing:
-              1. React Router Dom: One of the most popular routing libraries for react is react-router-dom. React router provided a simple and declarative way to handle routing in your react application allowing you to define routes and render different components based on the current URL.
-                            2. TanStack Router: 
-                            3. If you are using next.js you don’t have to worry about chossing a routing library as next.js has routing built in. 
+                          ## 1. React Router Dom: One of the most popular routing libraries for react is react-router-dom. React router provided a simple and declarative way to handle routing in your react application allowing you to 
+                                define routes and render different components based on the current URL.
+                          ## 2. TanStack Router: 
+                          ## 3. If you are using next.js you don’t have to worry about chossing a routing library as next.js has routing built in. 
 
-Client State Management:  
-                                                                    Client  State Management refers how your applicatoin organized and how the data flows between your components.
-                                                 Redux: 
-                                             A popular state management library for react is redux-toolkit. It provides a simplified API for defining and updating State as well as built-in support for features such as immutable updates, serializable action type and more.
-                             Redux-toolkit: 
-                                                                  Another state management library for react that provides simple and lightweight solution for managing state in your application. It provides a built-in mechanism for subscribing to state changes allowing you to easily keep your UI and syncwith your data. It is a great choice to developers who want a lightweight and easy to use State management solution without the overhead of a larger Library like redux.
+# Client State Management: 
+                             Client  State Management refers how your applicatoin organized and how the data flows between your components.
+                          ## 1. Redux: A popular state management library for react is redux-toolkit. It provides a simplified API for defining and updating State as well as built-in support for features such as immutable updates, 
+                                serializable action type and more.
+                          ## 2. Redux-toolkit: Another state management library for react that provides simple and lightweight solution for managing state in your application. It provides a built-in mechanism for subscribing to state 
+                                changes allowing you to easily keep your UI and syncwith your data. It is a great choice to developers who want a lightweight and easy to use State management solution without the overhead of a larger 
+                                Library like redux.
 
 
 
 
   #  API Data fetching : 
-                                        1. Redux-ToolKit query(RTK-query)
-                                                                   2. Apollo Client 
-                                                                   3. TanStack Query
+                        ## 1. Redux-ToolKit query(RTK-query)
+                        ## 2. Apollo Client 
+                        ## 3. TanStack Query
 
-Form Handling:  
-                                                      1. Formik
-                                                      2. React-Hook form
-Testing: 
-                        1. React-testing-library
-                        2. Playwright
+ # Form Handling:  
+                        ## 1. Formik
+                        ## 2. React-Hook form
+# Testing: 
+                        ## 1. React-testing-library
+                        ## 2. Playwright
 
 
-Styling:
-             1. Tailwindcss
-                        2. Styled Components
-                        3. Bootstrap
+# Styling:
+                        ## 1. Tailwindcss
+                        ## 2. Styled Components
+                        ## 3. Bootstrap
 
-UI Component library:
-1.	Material-UI. Material-UI (MUI) is a fully loaded UI component library that offers a                         comprehensive set of UI tools to create and deploy new features at speed
-2.	Ant Design (AntD)
-3.	React Bootstrap
-4.	Chakra UI
-5.	Blueprint
-6.	Visx
-7.	Fluent
-8.	Semantic UI React
-Animation: 
-                  1. React Spring
-                  2. Framer-Motion 
+# UI Component library:
+                       ## 1.	Material-UI. Material-UI (MUI) is a fully loaded UI component library that offers a comprehensive set of UI tools to create and deploy new features at speed
+                       ## 2.	Ant Design (AntD)
+                       ## 3.	React Bootstrap
+                       ## 4.	Chakra UI
+                       ## 5.	Blueprint
+                       ## 6.	Visx
+                       ## 7.	Fluent
+                       ## 8.	Semantic UI React
+# Animation: 
+                       ## 1. React Spring
+                       ## 2. Framer-Motion 
 
-Data visualization: 
-                  1. Rechart
+# Data visualization: 
+                       ## 1. Rechart
 
 
 
