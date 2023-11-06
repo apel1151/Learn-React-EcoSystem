@@ -41,3 +41,63 @@ In conclusion, the MERN stack project structure is organized in a way that separ
 1. MVC Pattern using React
 ![Screenshot 2023-11-01 174635](https://github.com/apel1151/Learn-React-EcoSystem/assets/77063289/ea69dcec-8afc-4cbe-a4ed-2feee65abf11)
 
+
+
+# [React-Ecosystem]
+
+# Routing:
+              1. React Router Dom: One of the most popular routing libraries for react is react-router-dom. React router provided a simple and declarative way to handle routing in your react application allowing you to define routes and render different components based on the current URL.
+                            2. TanStack Router: 
+                            3. If you are using next.js you don’t have to worry about chossing a routing library as next.js has routing built in. 
+
+Client State Management:  
+                                                                    Client  State Management refers how your applicatoin organized and how the data flows between your components.
+                                                 Redux: 
+                                             A popular state management library for react is redux-toolkit. It provides a simplified API for defining and updating State as well as built-in support for features such as immutable updates, serializable action type and more.
+                             Redux-toolkit: 
+                                                                  Another state management library for react that provides simple and lightweight solution for managing state in your application. It provides a built-in mechanism for subscribing to state changes allowing you to easily keep your UI and syncwith your data. It is a great choice to developers who want a lightweight and easy to use State management solution without the overhead of a larger Library like redux.
+
+
+
+
+  #  API Data fetching : 
+                                        1. Redux-ToolKit query(RTK-query)
+                                                                   2. Apollo Client 
+                                                                   3. TanStack Query
+
+Form Handling:  
+                                                      1. Formik
+                                                      2. React-Hook form
+Testing: 
+                        1. React-testing-library
+                        2. Playwright
+
+
+Styling:
+             1. Tailwindcss
+                        2. Styled Components
+                        3. Bootstrap
+
+UI Component library:
+1.	Material-UI. Material-UI (MUI) is a fully loaded UI component library that offers a                         comprehensive set of UI tools to create and deploy new features at speed
+2.	Ant Design (AntD)
+3.	React Bootstrap
+4.	Chakra UI
+5.	Blueprint
+6.	Visx
+7.	Fluent
+8.	Semantic UI React
+Animation: 
+                  1. React Spring
+                  2. Framer-Motion 
+
+Data visualization: 
+                  1. Rechart
+
+
+
+
+
+
+
+
